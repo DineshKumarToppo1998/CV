@@ -1,5 +1,6 @@
 body {
   background-color: #FAEEE7;
+  font-family: century gothic;
 }
 
 hr {
@@ -11,8 +12,11 @@ hr {
 
 h1 {
   color: #325288;
+  font-family: century gothic;
 }
 
 h3 {
   color: #325288;
+  font-family: century gothic;
+  font-style: oblique;
 }
